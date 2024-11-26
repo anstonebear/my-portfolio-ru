@@ -9,7 +9,7 @@ const Projects = () => {
 		<>
 			<main className='section' id='projects'>
 				<div className='container'>
-					<h2 className='title-1'>Projects</h2>
+					<h2 className='title-1'>Проекты</h2>
 					<ul className='projects'>
 						{projects.map(({ title, id, image, githubLink }) => {
 							return (
