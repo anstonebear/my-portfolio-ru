@@ -10,7 +10,7 @@ const Navbar = () => {
 			<div className='container'>
 				<div className='nav-row'>
 					<a href='./index.html' className='logo'>
-						<strong>Портфолио</strong>
+						<strong>Портфолио</strong> frontend
 					</a>
 
 					<BtnDarkMode />
